@@ -1,0 +1,4 @@
+urlBase : https://jsonplaceholder.typicode.com/
+rota    : /posts
+endpoint: https://jsonplaceholder.typicode.com/posts
+
